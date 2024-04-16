@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acerca</title>
+</head>
+<body>
+    <h1>Acerca de JUAN DAVID</h1>
+    <hr/>
+    <p>Ingeniero mecatronico</p>
+    <a href="https://www.youtube.com/" target="_blank">
+        Ir a youtube
+    </a>
+    <br/><br/>
+    <a href="mailto:juancofles@gmail.com?subject=Contacto&body=prueba email">Enviar email</a>
+    <br/><br/>
+    <a href="PrimerEjercicio.html">Inicio</a>
+</body>
+</html>
