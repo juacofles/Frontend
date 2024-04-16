@@ -1,0 +1,30 @@
+<!--LINKS EN HTML-->
+
+<!--
+    1. Titulo
+    2. linea horizontal abajo
+    3. 3 links separados por el simbolo "|" (inicio, contacto, acerca de)
+    4. Texto de bienvenida
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Universidad HTML</h1>
+
+    <hr/>
+    
+    <a href="PrimerEjercicio.html">Inicio</a>
+    &#124; 
+    <a href="Contacto.html">Contacto</a>
+    &#124;
+    <a href="Acerca.html">Acerca De</a>
+
+    <p>Bienvenidos al curso de universidad HTML</p>
+</body>
+</html>
